@@ -18,6 +18,7 @@ This project is a frontend clone of the popular music streaming service Spotify.
 ## Demo
 
 https://deepakspotifydummy.netlify.app/
+http://127.0.0.1:5501/
 
 ## Usage
 
