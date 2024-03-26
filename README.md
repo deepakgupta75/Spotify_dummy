@@ -17,7 +17,7 @@ This project is a frontend clone of the popular music streaming service Spotify.
 
 ## Demo
 
-https://deepakspotifydummy.netlify.app/  This is the link where I host my spotify Dummy<br>
+https://mymusicssystem.netlify.app/  This is the link where I host my spotify Dummy<br>
 
 This is url of my index.html file <br>
 http://127.0.0.1:5501/
